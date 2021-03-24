@@ -35,7 +35,6 @@ queue disini merupakan daftar yang digunakan untuk melacak node yang saat ini ma
         visited.append(neighbour)
         queue.append(neighbour)
         
-        untuk algoritma BFS diatas:
 
 Untuk algoritmanya awalnya akan dilakukan pengecekan setelah itu penambahan node awal ke daftar yg dikunjungi/visited dan queue.
 Sedangkan queue yang isinya berupa elemen akan terus mengeluarkan node dari queue, kemudian menambah neighbour dari node ke queue apabila tidak dikunjungi, dan ditandai sebagai telah dikunjungi(visited) dan akan terus dilakukan sampai tidak ada antrian.
