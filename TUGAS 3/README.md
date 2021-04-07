@@ -2,8 +2,8 @@
 Dian Markuci - 1184095 - D4TI3C 
 
 
-Dataset yang digunakan adalah data cuaca untuk membantu seseorang untuk memprediksikan cuaca yang tepat atau tidak tepat untuk bermain
-Data ini berisi detail mengenai prakiraan cuaca, suhu, kelembaban, dan kondisi angin. Kolom terakhir merupakan variabel target yang menunjukkan kemungkinan bermain.
+Dataset yang digunakan adalah data cuaca untuk membantu seseorang untuk memprediksikan cuaca yang tepat atau tidak tepat untuk bermain.
+Data ini berisi detail mengenai perkiraan cuaca, suhu, kelembaban, dan kondisi angin. Kolom terakhir merupakan variabel target yang menunjukkan kemungkinan bermain.
 
 probabilitas (kelas) = Berapa kali muncul di kolom/jumlah semua atribut kelas
 selanjutnya menghitung probabilitas individu 
