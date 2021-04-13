@@ -51,6 +51,11 @@ Consequents:
 wash_time:
 Universe : Menurut program type_of_dirtiness dan degree_of_dirtiness maka akan menentukan atau menghasilkan berapa lama waktu yang dibutuhkan untuk mencuci satu pakaian dan output dihasilkan berupa format menit kisaran (1 hingga 60))
 fuzzy set (Rentang nilai fuzzy): Sangat Pendek(VeryShort),Pendek(Short), Sedang(Medium,), Panjang(Long), Sangat Panjang (VeryLong)   
+
+# Visualisasi Matplotlib
+![fuzzy](https://user-images.githubusercontent.com/50128205/114517923-038cf280-9c69-11eb-94f5-9445c4b5d02e.JPG)
+
+Input type_of_dirtiness dan degree_of_dirtiness masing-masing 34 dan 56, Waktu proses pencucian yang dihasilkan sekitar 29.69653079440644 menit atau bisa dibulatkan 30 menit.
     
 
 
